@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "react-native-no-fast-refresh",
-    "slug": "react-native-no-fast-refresh",
+    "name": "expo-no-fast-refresh",
+    "slug": "expo-no-fast-refresh",
     "platforms": [
       "ios",
       "android",
